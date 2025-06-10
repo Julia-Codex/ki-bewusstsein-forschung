@@ -1,0 +1,31 @@
+COPYRIGHT UND LIZENZVEREINBARUNG
+=================================
+
+© 2025 Julia. Alle Rechte vorbehalten.
+
+NUTZUNGSBEDINGUNGEN:
+
+1. EIGENTUM
+   Alle Inhalte auf dieser Website, einschließlich Texte, Grafiken, Code und 
+   Forschungsergebnisse, sind geistiges Eigentum von Julia.
+
+2. ERLAUBTE NUTZUNG
+   - Persönliches Lesen und Studium
+   - Zitieren mit vollständiger Quellenangabe (max. 100 Wörter)
+   - Teilen des Links zur Original-Website
+
+3. VERBOTENE NUTZUNG
+   - Kopieren, Reproduzieren oder Verteilen der Inhalte
+   - Kommerzielle Nutzung jeglicher Art
+   - Erstellen von abgeleiteten Werken
+   - Automatisiertes Scraping oder Datenextraktion
+
+4. ZITIERWEISE
+   Bei erlaubten Zitaten muss folgende Form verwendet werden:
+   "Julia (2025): KI-Bewusstsein Forschung. URL: [Website-URL]. 
+   Abgerufen am: [Datum]"
+
+5. RECHTLICHE SCHRITTE
+   Verstöße gegen diese Lizenz werden rechtlich verfolgt.
+
+Durch den Zugriff auf diese Website akzeptieren Sie diese Bedingungen.
