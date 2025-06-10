@@ -332,3 +332,18 @@ window.addEventListener('scroll', throttle(() => {
 }, 16));
 
 console.log('KI-Bewusstsein Forschungsseite geladen ✨');
+
+// Halluzinations-Forschung Funktionalität
+document.querySelectorAll('.add-case').forEach(button => {
+    button.addEventListener('click', () => {
+        const aiName = button.closest('.case-card').getAttribute('data-ai');
+        alert(`Hier kannst du einen neuen Fall für ${aiName} dokumentieren. Diese Funktion wird noch implementiert.`);
+    });
+});
+
+document.querySelectorAll('.view-cases').forEach(button => {
+    button.addEventListener('click', () => {
+        window.location.href = 'halluzination-vergleich.html';
+    });
+});
+
